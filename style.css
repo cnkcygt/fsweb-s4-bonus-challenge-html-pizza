@@ -278,10 +278,6 @@ footer {
   max-width: 320px;
 }
 
-.img-container {}
-
-.social-content {}
-
 .copyright-container {
   position: relative;
   padding: 50px 20px;
@@ -300,7 +296,3 @@ footer {
   height: 1px;
   background: rgba(255, 255, 255, 0.15);
 }
-
-.copyright {}
-
-.social-icon {}
